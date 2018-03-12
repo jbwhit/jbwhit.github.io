@@ -1,2 +1,0 @@
-# jbwhit.github.io
-Blog
